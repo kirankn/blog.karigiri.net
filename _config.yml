@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   would be relevant to other members of the family, please send us your post in an email to hello@karigiri.net 
   and we shall post it here on your behalf. The site and the blog are bilingual. So, feel free to
   send us content in either Kannada or English.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "blog.karigiri.net" # the subpath of your site, e.g. /blog
 url: "http://blog.karigiri.net" # the base hostname & protocol for your site
 #twitter_username: kirankn
 #github_username:  kirankn
