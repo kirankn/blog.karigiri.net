@@ -26,7 +26,7 @@ As I lay on my bed resting and tending to my sore muscles (due to my overzealous
 
 I am sure, you all will have many more ideas to add to this. It would be great to hear those. Not all of these can be taken up simultaneously, but we should start somewhere.
 
-One more point that was raised during the meeting at Devarayanadurga was establishing a "Fund" to enable certain activities. I also tend to agree with Mari dodappa that the moment we have a "fund" in place, along with it comes the headache of using those funds in a way which should be and seem trustworthy as well to one and all. Many a times, when money is involved, it causes a lot of heartburn and affects the entire family negatively. So, we need a model which can enable us to do things well together while reducing/removing the negativity causing issues.
+One more point that was raised during the meeting at Devarayanadurga was establishing a "Fund" to enable certain activities. I also tend to agree with Mari dodappa that the moment we have a "fund" in place, along with it comes the headache of using those funds in a way which should be and also seem to be trustworthy to one and all. Many a times, when money is involved, it causes a lot of heartburn and affects the entire family negatively. So, we need a model which can enable us to do things well together while reducing/removing the negativity causing issues.
 
 Here's what I propose:
 
