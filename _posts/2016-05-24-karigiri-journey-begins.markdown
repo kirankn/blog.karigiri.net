@@ -3,7 +3,7 @@ layout: post
 title:  "The Karigiri.net journey begins!"
 date:   2016-05-24 15:02:01 +0530
 categories: 
-author: Kiran Nagaraj
+author: "Kiran Nagaraj"
 ---
 The first of the "triennial" Karigiri.net reunions held on 23rd May 2016 was an unequivocal success because of everyone who wholeheartedly participated in the event. For a Monday program, the attendance, which well exceeded 250 people, that too at a place 75 kms away from Bengaluru, was truly amazing and nothing short of a first day first show hit movie.
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Possibilities - Now & beyond"
 date:   2016-05-25 18:31:42 +0530
 categories: 
-author: Kiran Nagaraj
+author: "Kiran Nagaraj"
 ---
 As I lay on my bed resting and tending to my sore muscles (due to my overzealous participation at the Swachcha Bharat Abhiyaan by Karigiri.net volunteers), the question that kept creeping up was how to ensure that the family that has been brought together continues to stay connected. Without a driving force or a common cause, most associations tend to weaken over time. We have a website in place and communication channels have been set up (Facebook & Whatsapp). If nothing is done, all these will be relegated to just some forwards/funny messages or the Good Mornings/Good Evenings/Happy Festival kinds of messages. These are necessary, but not sufficient to keep the group alive. Vinay and I had discussed a few ideas on how to utilize the FB/Whatsapp groups. Here are a few of those.
 

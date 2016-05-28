@@ -1,23 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Karigiri.net Family Blog
-email: hello@karigiri.net
-description: > # this means to ignore newlines until "baseurl:"
-  This blog is to share the thoughts of the Karigiri.net family members. If you are 
-  a member of this family and would like to express your views on anything that you think 
-  would be relevant to other members of the family, please send us your post in an email to hello@karigiri.net 
-  and we shall post it here on your behalf. The site and the blog are bilingual. So, feel free to
-  send us content in either Kannada or English.
-#baseurl: "/blog.karigiri.net" # the subpath of your site, e.g. /blog
-url: "http://blog.karigiri.net" # the base hostname & protocol for your site
-#twitter_username: kirankn
-#github_username:  kirankn
-
-# Build settings
-markdown: kramdown
+description: >
+  This blog is for Karigiri.net family members to share their thoughts
+  on all things relevant to the family. If you are one of us, please do contribute.
+  We welcome posts in Kannada/English.
+copyright: None
+sass:
+  sass_dir: assets/sass
+#url: http://localhost:4000
+sitehome: "http://karigiri.net"
+bloghome: "http://blog.karigiri.net"
+disqus_shortname: karigiri
+facebook_username: "groups/karigiri.net/"
+#twitter_username: "#"
+#linkedin_username: "#"
+#instagram_username:
+#pinterest_username:
+#flickr_username:
+#github_username:  "#"
+feed_icon: rss
+email: "hello@karigiri.net"
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
