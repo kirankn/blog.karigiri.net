@@ -5,7 +5,7 @@ date:   2016-05-24 15:02:01 +0530
 categories: 
 author: "Kiran Nagaraj"
 ---
-The first of the "triennial" Karigiri.net reunions held on 23rd May 2016 was an unequivocal success because of everyone who wholeheartedly participated in the event. For a Monday program, the attendance, which well exceeded 250 people, that too at a place 75 kms away from Bengaluru, was truly amazing and nothing short of a first day first show hit movie.
+The first of the "triennial" Karigiri.net reunions held on 23rd May 2016 was an unequivocal success because of everyone who wholeheartedly participated in the event. For a Monday program, the attendance, which well exceeded 200 people, that too at a place 75 kms away from Bengaluru, was truly amazing and nothing short of a first day first show hit movie.
 
 People started trickling in early on Sunday (21st) itself. There were a lot of people who hadn't seen one another ever. Introductions soon resulted in a flow of affection as people started rediscovering their roots and finding interesting people to talk to. It was a true amalgamation of age, experience, knowledge, freshness and energy in one large melting pot. One could clearly see the glimmer of hope and content in the eyes of the seniors to see such strength at display. The young ones were present in great numbers ready to take on the mantle of the family.
 
